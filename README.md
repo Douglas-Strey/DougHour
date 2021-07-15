@@ -17,5 +17,4 @@ Projeto bem simples realizado no programa de estágio que estou participando, co
 
 ## 🔖 Layout
 
-Por enquando ainda não é possível visualizar o layout do projeto.
-<!---Você pode visualizar o layout do projeto inteiro através [desse link](https://edi-store.vercel.app/). -->
+Você pode visualizar o layout do projeto através [desse link](https://doughour.vercel.app/).
